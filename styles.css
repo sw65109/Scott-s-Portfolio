@@ -153,11 +153,11 @@ nav,
 }
 
 .dark-theme section {
-    background-color: #242424;
+    background-color: black;
 }
 
 .dark-theme #personal-logo {
-    filter: invert(-1);
+    filter: none;
 }
 
 .dark-theme .scroll__icon {
@@ -172,6 +172,10 @@ nav,
 .dark-theme .mail__btn {
     background-color: #fff;
     color: #242424;
+}
+
+.dark-theme footer {
+    background-color: black;
 }
     
 /* 
