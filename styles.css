@@ -156,7 +156,7 @@ nav,
     background-color: #242424;
 }
 
-.dark-theme #header__personal-logo {
+.dark-theme #personal-logo {
     filter: invert(1);
 }
 
@@ -289,7 +289,7 @@ nav {
     height: 100px;
 }
 
-#header__personal-logo {
+#personal-logo {
     margin-top: 32px;
     height: 100px;
     width: 100px;
